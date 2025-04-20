@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8" />
+  <title>AnneShop</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>فروشگاه آنه</h1>
+  <p>به دنیای پاستیلی ما خوش اومدی!</p>
+</body>
+</html>	body {
+  background-color: #ffe4ec;
+  font-family: sans-serif;
+color: #333;
+  text-align: center;
+  padding: 2rem;
+} /* /index.html 200
